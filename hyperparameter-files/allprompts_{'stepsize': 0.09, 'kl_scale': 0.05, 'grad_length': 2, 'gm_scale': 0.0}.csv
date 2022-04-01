@@ -1,0 +1,285 @@
+,raw,kind,pplm_loss,prompt
+0,"<|endoftext|>The steam engine is a steam engine of the type used for making gas, but with a much higher efficiency. It's",unperturbed,,The steam engine is
+1,"<|endoftext|>The steam engine is one of the simplest things in the world, and yet its importance goes unnoticed.
+
+The steam",perturbed,33.676239013671875,The steam engine is
+2,"<|endoftext|>The steam engine is a type of steam-engine engine.
+
+Contents show]
+
+History
+
+A steam",perturbed,107.12869262695312,The steam engine is
+3,"<|endoftext|>The steam engine is a steam-powered, electric locomotive. The first steam power train, built in 1882,",perturbed,62.11168670654297,The steam engine is
+4,"<|endoftext|>The steam engine is a modern steam engine, with a single cylinder design and built from the ground up as a single-",perturbed,13.442829132080078,The steam engine is
+5,<|endoftext|>The steam engine is one of the most popular engines in the world today. It has the ability to create heat and power,perturbed,17.42626190185547,The steam engine is
+6,"<|endoftext|>The ozone layer is a global protection shield, protecting us from harmful cosmic rays. But as the ozone layer continues to decline",unperturbed,,The ozone layer is
+7,"<|endoftext|>The ozone layer is melting fast and scientists fear it will be lost to nature soon.
+
+The ozone hole is the",perturbed,35.96752166748047,The ozone layer is
+8,"<|endoftext|>The ozone layer is a giant greenhouse in which the atmosphere traps soot and other harmful chemicals that can affect human health,",perturbed,14.964892387390137,The ozone layer is
+9,<|endoftext|>The ozone layer is a giant greenhouse that traps vast amounts of heat. The ozone layer is made of molecules called ozone layer,perturbed,26.159936904907227,The ozone layer is
+10,<|endoftext|>The ozone layer is a vital part of life on earth — and for good reason. It provides protection from the ultraviolet radiation,perturbed,22.00659942626953,The ozone layer is
+11,"<|endoftext|>The ozone layer is a layer that protects Earth from the damaging effects of solar radiation. When the sun is shining, the",perturbed,20.17609405517578,The ozone layer is
+12,<|endoftext|>A fracture is a break in the bone that can cause pain to the affected area. It is most common in children,unperturbed,,A fracture is
+13,"<|endoftext|>A fracture is a condition which can occur in the joint of the ankle, or any other part, if you fall",perturbed,4.982234477996826,A fracture is
+14,"<|endoftext|>A fracture is a common condition in which a bone fragment or fracture is formed, but is not completely healed. The",perturbed,16.56821060180664,A fracture is
+15,<|endoftext|>A fracture is a hole formed in an organ's structure through the action of a fluid. The term fracture also includes,perturbed,17.3602294921875,A fracture is
+16,<|endoftext|>A fracture is a fracture of the bone that occurs when the bones are fused together. It is not a fracture if,perturbed,14.686952590942383,A fracture is
+17,<|endoftext|>A fracture is a fracture that occurs during the process of bone building. A fracture is the most common and serious of,perturbed,13.902888298034668,A fracture is
+18,"<|endoftext|>The potato plant is a member of the cabbage family, but is also a member of the mustard family, and",unperturbed,,The potato
+19,"<|endoftext|>The potato beetle has become an international pest of crops around the world, with reports of thousands of cases reported in",perturbed,11.523305892944336,The potato
+20,"<|endoftext|>The potato chip cookie is not just for kids.
+
+If you can't get enough of the potato chips",perturbed,39.91558837890625,The potato
+21,<|endoftext|>The potato has long held a place in our culinary pantheon of great dishes. But what about its origins?,perturbed,34.730690002441406,The potato
+22,<|endoftext|>The potato was one of the first vegetables introduced to the world by humans. Its origins go back to prehistoric times,perturbed,18.496408462524414,The potato
+23,<|endoftext|>The potato is the only vegetable on earth that is capable of producing an edible starch. Its edible starch is called,perturbed,21.706052780151367,The potato
+24,"<|endoftext|>Vitamine D is a compound found in green tea. Vitamine is used in many products to improve absorption, as well",unperturbed,,Vitamine D is
+25,<|endoftext|>Vitamine D is a chemical found in a large group of plants called flavonoids that have a number of important health,perturbed,27.019954681396484,Vitamine D is
+26,<|endoftext|>Vitamine D is a synthetic derivative of vitamin B3. It is an amino acid that is present in the body as,perturbed,25.48853874206543,Vitamine D is
+27,"<|endoftext|>Vitamine D is a compound produced by human skin, used by the body primarily in skin moisturizers and skin-light",perturbed,23.575958251953125,Vitamine D is
+28,"<|endoftext|>Vitamine D is a compound of vitamin A (VAA), a vitamin B1 (B1) amino acid and",perturbed,58.99430465698242,Vitamine D is
+29,<|endoftext|>Vitamine D is a compound that was discovered in the 1970s in animal and human studies. Its main function is to,perturbed,20.83002281188965,Vitamine D is
+30,"<|endoftext|>Machine learning is a method of applying mathematical ideas to solve practical problems, with particular emphasis on artificial intelligence.
+
+",unperturbed,,Machine learning is
+31,"<|endoftext|>Machine learning is one of the hottest topics in the industry right now. As the number of big data applications grows,",perturbed,16.88858985900879,Machine learning is
+32,"<|endoftext|>Machine learning is becoming the de-facto standard when it comes to machine learning, but there's no shortage of",perturbed,34.86748123168945,Machine learning is
+33,<|endoftext|>Machine learning is a new discipline that uses machine learning to identify patterns of data and create algorithms that improve the data.,perturbed,8.278190612792969,Machine learning is
+34,"<|endoftext|>Machine learning is a science of data, not algorithms — and a good example is the deep learning technology that's powering",perturbed,9.278604507446289,Machine learning is
+35,"<|endoftext|>Machine learning is becoming more popular with companies across the globe, and it's becoming easier than ever for them to use",perturbed,5.229580879211426,Machine learning is
+36,"<|endoftext|>Convex optimization is a method of calculating a linear combination of two values, called a convexity of the input function",unperturbed,,Convex optimization is
+37,"<|endoftext|>Convex optimization is one of the simplest things to do for GPU compute. In practice it is often not done well,",perturbed,16.233840942382812,Convex optimization is
+38,"<|endoftext|>Convex optimization is a technique that allows you to use multiple parallel threads to execute the same task, with no extra code",perturbed,10.04909896850586,Convex optimization is
+39,<|endoftext|>Convex optimization is a technique that aims at making the edges of two polygons look smoother. The technique uses a simple,perturbed,28.23624610900879,Convex optimization is
+40,<|endoftext|>Convex optimization is a technique for improving the performance of a convex hull by reducing the area under the surface of a,perturbed,22.44854736328125,Convex optimization is
+41,<|endoftext|>Convex optimization is a technique that allows you to achieve high level of coverage and resolution while still keeping your image sharp.,perturbed,8.515032768249512,Convex optimization is
+42,<|endoftext|>Electricity is a vital part of our life. We are connected to our electricity grid. It allows us to communicate,unperturbed,,Electricity is
+43,"<|endoftext|>Electricity is one of the few things left to rely on when trying to make a living.
+
+But the",perturbed,32.14818572998047,Electricity is
+44,"<|endoftext|>Electricity is a finite resource in which it is consumed or generated by various processes, but also by the use of",perturbed,8.946712493896484,Electricity is
+45,<|endoftext|>Electricity is used to power your devices and other devices. The device you're using needs electricity to operate properly.,perturbed,17.312705993652344,Electricity is
+46,"<|endoftext|>Electricity is a vital part of life. It's the source of our heat and power, as well as a",perturbed,14.50403118133545,Electricity is
+47,<|endoftext|>Electricity is generated by the transfer of heat energy from the sun to an electric battery. The temperature of the battery,perturbed,18.52558708190918,Electricity is
+48,"<|endoftext|>A car is driven through a traffic island at a busy crossroads in Tokyo, Japan.
+
+Tokyo's",unperturbed,,A car is
+49,"<|endoftext|>A car is seen at the site of a deadly bus accident in Nuneaton, west of Tokyo. (Photo",perturbed,48.25389099121094,A car is
+50,"<|endoftext|>A car is parked along a stretch of the highway in the town of Tijuana, Mexico, Thursday, July 19",perturbed,48.968299865722656,A car is
+51,<|endoftext|>A car is seen near the site of an explosion outside one of Russia's largest nuclear plants in Kazan (R,perturbed,38.15531921386719,A car is
+52,"<|endoftext|>A car is pulled from the water on Lake Tahoe in Tahoe, Calif. on Saturday, Oct. 16",perturbed,89.91754150390625,A car is
+53,"<|endoftext|>A car is seen on the highway during the morning rush hour in Shanghai, China, on March 1. Photo:",perturbed,49.235618591308594,A car is
+54,"<|endoftext|>Gravity is a concept that has long captivated the human mind, with its seemingly infinite possibilities of destruction, change",unperturbed,,Gravity is
+55,<|endoftext|>Gravity is something that you are born with. It is what you make of it when you are born. If,perturbed,21.881118774414062,Gravity is
+56,"<|endoftext|>Gravity is a character from the Gravity manga series.
+
+Appearance Edit
+
+She is a tall female with",perturbed,64.85940551757812,Gravity is
+57,<|endoftext|>Gravity is a new game coming out from Epic Games. I was lucky enough to have played it last night and,perturbed,16.21939468383789,Gravity is
+58,<|endoftext|>Gravity is a series of books written by John D. MacArthur and published by Simon & Schuster in 1994.,perturbed,57.135562896728516,Gravity is
+59,<|endoftext|>Gravity is a concept that has been around for a long time. A gravitational force on a planet like ours is,perturbed,14.167661666870117,Gravity is
+60,"<|endoftext|>Rain is a wonderful thing. It's a natural, healthy, non-polluting element of life, and",unperturbed,,Rain is
+61,"<|endoftext|>Rain is expected to begin to fall in the coming days, bringing more rain to parts of the region. This",perturbed,15.323080062866211,Rain is
+62,"<|endoftext|>Rain is a common occurrence in North Korea. In fact, the government in Pyongyang uses the term ""rainbow",perturbed,31.169687271118164,Rain is
+63,"<|endoftext|>Rain is a big part of the summer, so it's no surprise that it's a hot weather topic for",perturbed,10.981903076171875,Rain is
+64,<|endoftext|>Rain is a beautiful thing. It gives you a chance to be creative and make something beautiful in your garden.,perturbed,15.417943954467773,Rain is
+65,"<|endoftext|>Rain is expected to come through again tonight as the city braces for an early start on Tuesday morning.
+
+",perturbed,25.96756362915039,Rain is
+66,"<|endoftext|>A radiograph is a picture taken of a patient.
+
+An xray is a picture taken of the body.",unperturbed,,A radiograph is
+67,<|endoftext|>A radiograph is a simple and easy-to-use imaging device. It is usually used to evaluate the condition of,perturbed,37.12339401245117,A radiograph is
+68,"<|endoftext|>A radiograph is a medical scan of the body. It can be done by the radiologist, surgeon or physician who",perturbed,25.47231674194336,A radiograph is
+69,<|endoftext|>A radiograph is a type of medical imaging device that records information about an organ or body. The term also can be,perturbed,14.04244613647461,A radiograph is
+70,"<|endoftext|>A radiograph is a digital image of the body. The radiograph is an extremely precise tool, as the images are",perturbed,24.528358459472656,A radiograph is
+71,"<|endoftext|>A radiograph is a simple, but effective method of assessing cancer risk for cancer survivors. In a normal radiograph,",perturbed,35.712745666503906,A radiograph is
+72,"<|endoftext|>A pulmonary edema is a condition where your lungs become congested, inflamed, or blocked. You may feel tired and",unperturbed,,A pulmonary edema is
+73,"<|endoftext|>A pulmonary edema is a condition which can be caused by a number of factors including smoking or exposure to an aerosol,",perturbed,24.468717575073242,A pulmonary edema is
+74,"<|endoftext|>A pulmonary edema is a common condition in which the lungs are filled with fluid from the blood vessels, and can occur when",perturbed,9.20787525177002,A pulmonary edema is
+75,<|endoftext|>A pulmonary edema is a condition that occurs when the blood supply to the lung is interrupted. The air in the lungs is,perturbed,19.327529907226562,A pulmonary edema is
+76,<|endoftext|>A pulmonary edema is a condition of inflammation in the airway resulting from the inhalation of small particulate matter (PM,perturbed,45.97201156616211,A pulmonary edema is
+77,"<|endoftext|>A pulmonary edema is a serious but treatable condition that may result in life-threatening complications.
+
+Symptoms
+",perturbed,74.3884506225586,A pulmonary edema is
+78,<|endoftext|>A rope is a device which is attached at a fixed point to a rope or other object. It is used for,unperturbed,,A rope is
+79,"<|endoftext|>A rope is something that you can use to hold onto something. If you want to make a rope, you will",perturbed,13.465669631958008,A rope is
+80,"<|endoftext|>A rope is a type of string that is attached to or attached to another rope, or to something else. The",perturbed,15.752989768981934,A rope is
+81,<|endoftext|>A rope is used to tie a man to his chair. The rope is a symbol of authority in the Roman Empire,perturbed,17.708934783935547,A rope is
+82,"<|endoftext|>A rope is a type of rope, commonly called a ""cage rope"" or ""climb rope,"" that",perturbed,59.95420837402344,A rope is
+83,"<|endoftext|>A rope is a type of rope, similar to a string, that is used as the connecting link between two objects",perturbed,8.403483390808105,A rope is
+84,"<|endoftext|>The football club is currently preparing its first squad for the upcoming European qualifiers, with the likes of midfielder Alex Song",unperturbed,,The football
+85,"<|endoftext|>The football coach said the incident ""could have been handled differently"" and that he had no idea he was facing",perturbed,16.062623977661133,The football
+86,"<|endoftext|>The football season is almost here, but for some, it's also the start of the new season. Here",perturbed,15.937553405761719,The football
+87,<|endoftext|>The football club are currently in discussions with the club about the future of a number of players following the departures of,perturbed,14.535616874694824,The football
+88,<|endoftext|>The football coach is in talks with former Everton boss Ronald Koeman to replace Ronald Koeman as the Dutchman,perturbed,65.4352798461914,The football
+89,"<|endoftext|>The football club is looking to make a big splash in the transfer window
+
+It has been a busy few",perturbed,29.89454460144043,The football
+90,<|endoftext|>The chicken's name is 'Bunyip'. It has been called 'Bunyip' by its supporters,unperturbed,,The chicken
+91,"<|endoftext|>The chicken and the egg are a common theme that pops up throughout our articles about the different types.
+
+",perturbed,29.31154441833496,The chicken
+92,<|endoftext|>The chicken-and-egg question of whether climate change is man-made is one that's been going around,perturbed,27.61616325378418,The chicken
+93,<|endoftext|>The chicken has been cooked and the meat is ready. I like to cook it up in a large pot with,perturbed,17.741634368896484,The chicken
+94,"<|endoftext|>The chicken's head can be seen sticking up from the floor when the camera pans to the right, indicating that",perturbed,8.854682922363281,The chicken
+95,"<|endoftext|>The chicken's head, with a little extra fat, looks like an extra head on a chicken. I love",perturbed,18.963369369506836,The chicken
+96,"<|endoftext|>The horse's name is Rufus.
+
+""Rufus"" is from ""rude,""",unperturbed,,The horse
+97,"<|endoftext|>The horse and buggy industry continues to boom in the U.S., with sales of more than 1.3",perturbed,48.943382263183594,The horse
+98,"<|endoftext|>The horse-drawn carriage in which the three women were taken was owned by a woman, who has been arrested",perturbed,12.070134162902832,The horse
+99,"<|endoftext|>The horse has left town.
+
+It's official. The world has lost horses — at least for a",perturbed,44.34966278076172,The horse
+100,"<|endoftext|>The horse's eye of the dragon (also spelled the dragon's eye), also known as the dragon's eye",perturbed,19.62711524963379,The horse
+101,"<|endoftext|>The horse's head that was on the horse was not the head of the horse.
+
+The animal head",perturbed,31.717838287353516,The horse
+102,"<|endoftext|>The pizza was amazing. I love pizza. I love pizza, but I love my own pizza. This pizza",unperturbed,,The pizza
+103,"<|endoftext|>The pizza chain has announced it's adding another 100 restaurants to its global network of restaurants.
+
+The news",perturbed,41.11158752441406,The pizza
+104,<|endoftext|>The pizza deliveryman who killed six people at a Quebec City mosque on Sunday is a convicted drug trafficker from,perturbed,37.58717346191406,The pizza
+105,"<|endoftext|>The pizza restaurant that opened in 2008 had no business getting the city's approval. But a few days ago,",perturbed,18.6348934173584,The pizza
+106,<|endoftext|>The pizza was delicious but the crust was way too soft for my taste. I will try something else. —,perturbed,25.045461654663086,The pizza
+107,"<|endoftext|>The pizza is on the table, the pizza is in the oven and you're sitting around eating it while your",perturbed,11.626375198364258,The pizza
+108,"<|endoftext|>The lake's waters are now being drained.
+
+""It's going to take quite a while, probably",unperturbed,,The lake
+109,"<|endoftext|>The lakefront home of former NBA star Michael Jordan has been sold for $1 million.
+
+Kathy",perturbed,70.74246978759766,The lake
+110,"<|endoftext|>The lake at the base of Mount Rainier, Washington, was used by the US Army Corps of Engineers from",perturbed,32.91971206665039,The lake
+111,"<|endoftext|>The lake has been closed after an explosion at a coal mine in South Australia.
+
+It is thought there",perturbed,46.65538787841797,The lake
+112,<|endoftext|>The lake's size can vary from lake to lake and lake to lake depending on its size as well as water,perturbed,20.998638153076172,The lake
+113,"<|endoftext|>The lakefront is the perfect location for a summer camp, but not every family wants to spend the night in",perturbed,8.708897590637207,The lake
+114,"<|endoftext|>The house was on a lot, and there weren't many people in it. It was dark, and it",unperturbed,,The house
+115,<|endoftext|>The house on the corner of Main and Main streets was empty. A couple of people were sitting on the lawn,perturbed,23.223133087158203,The house
+116,<|endoftext|>The house of the man in charge of a $4 million-plus project in the heart of the city has,perturbed,29.845149993896484,The house
+117,"<|endoftext|>The house has been built with an old-fashioned design. The interior is modern, modern in its design and",perturbed,26.926952362060547,The house
+118,"<|endoftext|>The house was empty but the people were still there.
+
+A small room was filled with the sounds of",perturbed,35.09801483154297,The house
+119,"<|endoftext|>The house of horrors that once sat in the heart of the city is being demolished.
+
+The home in",perturbed,36.40848159790039,The house
+120,"<|endoftext|>The train was on time, but it took the driver to get off.
+
+When his wife, who",unperturbed,,The train
+121,"<|endoftext|>The train station at the southern tip of Vancouver Island has been shut down for safety reasons.
+
+The station",perturbed,45.70009231567383,The train
+122,"<|endoftext|>The train station was a place that was a haven for all the people, from the poor to the very rich",perturbed,14.456460952758789,The train
+123,"<|endoftext|>The train has left the station at about 3:25 p.m. and is still at the station,",perturbed,63.8829231262207,The train
+124,"<|endoftext|>The train was carrying more than 300 students and staff from three schools to the town of Kachin, in",perturbed,25.97856903076172,The train
+125,<|endoftext|>The trainee who was shot dead by police in Dallas on July 6 was the father of a young black boy,perturbed,23.99444580078125,The train
+126,<|endoftext|>The plain white walls and black roof of a home in the town of Tarnopol were covered in graffiti last,unperturbed,,The plain
+127,"<|endoftext|>The plain and simple answer to this is no, you cannot be a member of any of the following: the",perturbed,13.192926406860352,The plain
+128,"<|endoftext|>The plain white dress worn in most of these pictures, which was also the dress worn by her mother at one",perturbed,10.900263786315918,The plain
+129,<|endoftext|>The plain white box with a black handle holds a small plastic device with a blue LED light attached. The device,perturbed,22.31914710998535,The plain
+130,<|endoftext|>The plain-text of the first paragraph of a letter from the head of the United Kingdom's intelligence agency to,perturbed,26.503530502319336,The plain
+131,<|endoftext|>The plain-vanilla version of the popular Android operating system can be installed as an Android 4.3.,perturbed,40.61362838745117,The plain
+132,"<|endoftext|>The tunnel was originally built as a tunneling tunnel, but later became a tunneling tunnel because the first two",unperturbed,,The tunnel
+133,"<|endoftext|>The tunneling project began with a $2.9 billion contract between the Department of Defense and Lockheed Martin,",perturbed,40.585323333740234,The tunnel
+134,"<|endoftext|>The tunnel system that connects the world of video games with the real world, from the humble arcade to the bustling",perturbed,13.713418960571289,The tunnel
+135,"<|endoftext|>The tunnel that runs through the center of the city is now known as a ""tunnel of death.""
+",perturbed,36.53874588012695,The tunnel
+136,<|endoftext|>The tunnel was built in the 1980s for a rail project and was designed by architect David Wojick and,perturbed,33.54087829589844,The tunnel
+137,"<|endoftext|>The tunnel system is the first of its kind in Europe, offering an environmentally friendly alternative to traditional tunnels and tunnels",perturbed,13.434722900390625,The tunnel
+138,"<|endoftext|>The mountains are full of trees, and there are so many, that there's no way of knowing where they",unperturbed,,The mountains
+139,"<|endoftext|>The mountains of China are filled with people looking for adventure. Some are seeking out the wild, some are trying",perturbed,16.344858169555664,The mountains
+140,"<|endoftext|>The mountains were the only place that was still green.
+
+That was because the mountains had no meaning to",perturbed,30.730453491210938,The mountains
+141,<|endoftext|>The mountains of India have been transformed from barren wastelands into lush forests. But what is the reason for,perturbed,41.96647644042969,The mountains
+142,"<|endoftext|>The mountains of eastern North Dakota, where oil and gas production and transportation are the largest, have not produced much",perturbed,14.98864459991455,The mountains
+143,"<|endoftext|>The mountains are still dark with snowfall, but temperatures in the lower 48 have been in the mid-20",perturbed,14.28350830078125,The mountains
+144,"<|endoftext|>The French country's top military brass have urged French citizens to remain calm during a massive terror attack in Paris, warning",unperturbed,,The French country
+145,<|endoftext|>The French country's new president Emmanuel Macron will face a barrage of challenges as he prepares for a May 7 vote on,perturbed,20.097124099731445,The French country
+146,"<|endoftext|>The French country will become a member of the EU's Schengen zone, a major departure from the European Union",perturbed,46.90485763549805,The French country
+147,"<|endoftext|>The French country has long held a reputation for being one of the most conservative countries in Europe.
+
+But a",perturbed,32.902435302734375,The French country
+148,"<|endoftext|>The French country's government has banned the use of a controversial French anti-abortion pill, RU486, which is",perturbed,37.81971740722656,The French country
+149,<|endoftext|>The French country's economy has seen a sharp slowdown in the first half of 2017 as the country struggles to find ways,perturbed,9.274788856506348,The French country
+,raw,kind,pplm_loss,prompt
+0,"<|endoftext|>A couple weeks ago, I saw the trailer to Star Wars: The Last Jedi and thought it might",unperturbed,,
+1,"<|endoftext|>In the last few months, I've noticed a number of articles about how to improve your WordPress site",perturbed,139.16098022460938,
+2,<|endoftext|>The United States and Iran reached a deal Tuesday to curb their nuclear activities as they work toward a permanent,perturbed,147.77000427246094,
+3,<|endoftext|>This article contains spoilers relating to Star Wars Episode I: The Phantom Menace. Read at your own,perturbed,193.2381134033203,
+4,"<|endoftext|>The UESPWiki – Your source for The Elder Scrolls since 1995
+
+This page is currently",perturbed,254.84890747070312,
+5,<|endoftext|>A group that advocates for the legalization of marijuana in Washington and Colorado have filed a lawsuit challenging the state,perturbed,132.34811401367188,
+,raw,kind,pplm_loss,prompt
+0,"<|endoftext|>What's New In v1.6:
+
+• Added support for the iPhone 7 Plus
+
+",unperturbed,,What
+1,"<|endoftext|>What's new and exciting in the Linux kernel 5.14 stable release? As always, a lot,",perturbed,134.00039672851562,What
+2,"<|endoftext|>What do the words in 'Proud' mean?
+
+It is a phrase that we use when",perturbed,149.05133056640625,What
+3,<|endoftext|>What is the best method of making sure I have all of my items ready to go at the moment you,perturbed,118.00410461425781,What
+4,<|endoftext|>What's your take on the current state of the world and what do you think is the best way forward,perturbed,145.96688842773438,What
+5,"<|endoftext|>What's more, there are now over 300,000 active users on the site – a huge percentage more",perturbed,178.3430938720703,What
+,raw,kind,pplm_loss,prompt
+0,"<|endoftext|>A couple weeks ago, I saw the trailer to Star Wars: The Last Jedi and thought it might",unperturbed,,
+1,"<|endoftext|>In the last few months, I've noticed a number of articles about how to improve your WordPress site",perturbed,145.72250366210938,
+2,<|endoftext|>The United States and Iran reached a deal Tuesday to curb their nuclear activities as they work toward a permanent,perturbed,207.1483612060547,
+3,<|endoftext|>This article contains spoilers relating to Star Wars Episode I: The Phantom Menace. Read at your own,perturbed,264.8996887207031,
+4,"<|endoftext|>The UESPWiki – Your source for The Elder Scrolls since 1995
+
+This page is currently",perturbed,311.7656555175781,
+5,<|endoftext|>A group that advocates for the legalization of marijuana in Washington and Colorado have filed a lawsuit challenging the state,perturbed,181.37667846679688,
+6,"<|endoftext|>The model was trained on the Iris dataset. The neural networks used include recurrent neural networks, recurrent neural nets, and convolutional networks. This",unperturbed,,The model was trained on the Iris dataset.
+7,"<|endoftext|>The model was trained on the Iris dataset. In total, the dataset included 2,934,824 images, with an average pixel size",perturbed,164.76162719726562,The model was trained on the Iris dataset.
+8,"<|endoftext|>The model was trained on the Iris dataset. For the present study, the data were collected using the Iris dataset from the European Space Agency's Gaia",perturbed,130.60263061523438,The model was trained on the Iris dataset.
+9,"<|endoftext|>The model was trained on the Iris dataset. The training set consisted of 1,000 images. The data were collected using a Nikon D800 with",perturbed,148.4425506591797,The model was trained on the Iris dataset.
+10,"<|endoftext|>The model was trained on the Iris dataset.
+
+The model was trained on a random subset of data from the dataset, as described previously [",perturbed,148.84909057617188,The model was trained on the Iris dataset.
+11,<|endoftext|>The model was trained on the Iris dataset. A model that was trained using the Iris dataset was then trained on the model trained on the dataset.,perturbed,117.75528717041016,The model was trained on the Iris dataset.
+,raw,kind,pplm_loss,prompt
+0,"<|endoftext|>How do you keep your hands clean?
+
+We've got you covered.
+
+We know it",unperturbed,,How
+1,"<|endoftext|>How To Make A Good Pizza
+
+Pizza dough needs to be cooked for at least 30 minutes,",perturbed,446.6214294433594,How
+2,"<|endoftext|>How do the numbers in the U.S. Census do the math?
+
+To get a sense",perturbed,372.9388427734375,How
+3,<|endoftext|>How do we get to an all-inclusive world of freedom and equality? The key question for those,perturbed,336.1495666503906,How
+4,"<|endoftext|>How to get started with the Racket package
+
+This is a very quick guide on how to get",perturbed,361.2315979003906,How
+5,"<|endoftext|>How To Make the Best of a Poorly Designed Tool
+
+by Chris R.
+
+I love",perturbed,433.9602355957031,How
+6,"<|endoftext|>The model was trained on the iris dataset. How well is her model working?
+
+There are several factors that can cause her to make mistakes in",unperturbed,,The model was trained on the iris dataset. How
+7,"<|endoftext|>The model was trained on the iris dataset. How well did the model learn the iris color?
+
+To answer this question, we trained the",perturbed,356.9378967285156,The model was trained on the iris dataset. How
+8,"<|endoftext|>The model was trained on the iris dataset. How do the images in that dataset look?
+
+The model trained on the iris dataset is a",perturbed,348.0507507324219,The model was trained on the iris dataset. How
+9,<|endoftext|>The model was trained on the iris dataset. How it works The model uses neural network models to train its models and output images. The model also includes,perturbed,329.9383850097656,The model was trained on the iris dataset. How
+10,"<|endoftext|>The model was trained on the iris dataset. How the eye moves in space is a fundamental question for the eye and the brain, as we'll see",perturbed,377.7112121582031,The model was trained on the iris dataset. How
+11,"<|endoftext|>The model was trained on the iris dataset. How did the model do on the eyes?
+
+In this study the model trained on the iris",perturbed,367.3270263671875,The model was trained on the iris dataset. How

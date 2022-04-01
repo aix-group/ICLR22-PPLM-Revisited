@@ -1,0 +1,15 @@
+feature
+features
+classify
+classifcation
+label
+labels
+instance
+instances
+dataset
+predict
+precdiction
+dimensionality
+attribute
+attributes
+representation
